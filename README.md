@@ -1,4 +1,4 @@
 # Star-Bakery
-Extension of MSIS 603 DBMS Project
+DBMS SQL Server Project
 
 Created a SQL Server database architecture for an imaginary bakery.
